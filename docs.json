@@ -9,9 +9,10 @@
   },
   "favicon": "/stg.ico",
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "Main",
+        "dropdown": "Main",
+        "icon": "home",
         "groups": [
           {
             "group": "STG - Get Started",
@@ -21,7 +22,8 @@
         ]
       },
       {
-        "tab": "Standard Operating Procedures",
+        "dropdown": "Standard Operating Procedures",
+        "icon": "clipboard",
         "groups": [
           {
             "group": "STG - SOPs",
